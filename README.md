@@ -2,4 +2,4 @@
 a lib for fr scouting written in c++
 
 
-#**SEGMENTATION FAULT**
+# **SEGMENTATION FAULT**
